@@ -3,14 +3,11 @@
 To create a REST-API in Flask With JSON Web Token Authentication and Flask-SQLAlchemy ,for authentication and authorization and testing is done using Postman.
 
 
-
-1
 1) Create the folder
 
 2) Create virtual environment
 
       virtualenv -p python3 .venv
-      Activate Virtual environment
       .venv/Scripts/activate
 
 3) Install flask
@@ -22,7 +19,7 @@ To create a REST-API in Flask With JSON Web Token Authentication and Flask-SQLAl
       Flask-RESTful==0.3.8
       PyJWT==1.7.1
       Flask-SQLAlchemy==2.
-      Install the packages
+  
     
 Use the following command to install requirements.txt file.
 
