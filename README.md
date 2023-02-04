@@ -40,4 +40,5 @@ To create a REST-API in Flask With JSON Web Token Authentication and Flask-SQLAl
 * Go to Sqlite3
 
             sqlite3 todo.db(filename)
+            
 
