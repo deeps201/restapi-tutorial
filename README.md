@@ -7,7 +7,7 @@ To create a REST-API in Flask With JSON Web Token Authentication and Flask-SQLAl
 
 2) Create virtual environment
 
-      virtualenv -p python3 .venv
+            virtualenv -p python3 .venv
       
       .venv/Scripts/activate
 
