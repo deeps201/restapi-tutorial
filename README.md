@@ -21,6 +21,6 @@ To create a REST-API in Flask With JSON Web Token Authentication and Flask-SQLAl
             Flask-SQLAlchemy==2.
   
     
-Use the following command to install requirements.txt file.
+* Use the following command to install requirements.txt file.
 
       pip install -r requirements.txt
